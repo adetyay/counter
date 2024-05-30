@@ -1,5 +1,6 @@
 # counter
 learning javascript
+---
 things i learned while making this project:
 - variables
 - console.log
